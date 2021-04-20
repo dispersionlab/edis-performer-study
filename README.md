@@ -17,9 +17,34 @@ The session capture module contains 2 separate submodules. The first in the `ins
 - the instrument definer is located in database folder of the dispersion lab git repo and is called 
 `db.instrumentDefiner.maxpat`
 1. [instrument definer](https://youtu.be/Jl0v9e7--aI) (link to video) 
-1. instructions
+#### 2.a instrument definer instructions
+1. locate `db.instrumentDefiner.maxpat` in the database folder and open patch
+1. verify that your control data is being sent to the correct UDP port (choose the port in the instrument definer patch)
+1. if possible - be able to turn off continuous data
+1. set instrument name
+1. set author name
+1. quick move through control parameters to get a min and max for each
+1. if too much data is sent to the instrument definer it may not be able to handle it. 
+1. it is best to send each collection of parameters individually 
+1. check through dropdown menu and data windows that all relevant parameters are accounted for
+1. save
+1. now your instrument definition is read for session capture
 ### 3. session capture
 - session capture is located in teh database folder of the dispersion lab git repo and is called:      
  `d.db.session.capture-mubu-buffer-node-v2.0.maxpat`
 1. [session capture](https://youtu.be/MbhJ0SMNBpk) (lind to video)
-1. instructions
+
+1. locate `d.db.session.capture-mubu-buffer-node-v2.0.maxpat` in the database folder and open patch
+1. verify you are sending data to the right port
+1. check data monitor to verify session capture is recieving data
+1. choose folder where you will save files from session capture
+1. enter session name - use your name with modifiers if necessary
+1. choose your instrumemnet from the dropdown menu
+1. choose input or output of max (send audio to max if necessary)
+1. test by starting session capture - perform for a few seconds/minutes and then stop
+1. save -- verify that an audio and json file have been saved in your folder choice
+1. verify the data has been captured by opening the mubu viewer
+	1. double click on the `p mubu-view` object
+	1. double click on the `mubu session`
+	1. we view the data in mubu which might take a couple seconds to open 
+1. ***IMPORTANT*** do not have the mubu viewer open while recording it will significantly slow down the rate of data capture. Only open the mubu viewer after you have recorded and close before recording again. 
