@@ -1,5 +1,9 @@
 # Embodied Digital Instrumental Systems: performer-system perspectives
 Welcome ....
+
+
+
+
 ## Session Capture Module
 The session capture module contains 2 separate submodules. The first in the `instrument definer` module that takes your control data sent over udp and creates the necessary information structure (held in a JSON file) that informs the second submodule `session capture` such that it has the necessary components to capture the control data from your performance system. 
 ### 1. required software and installation 
@@ -48,3 +52,11 @@ The session capture module contains 2 separate submodules. The first in the `ins
 	1. double click on the `mubu session`
 	1. we view the data in mubu which might take a couple seconds to open 
 1. ***IMPORTANT*** do not have the mubu viewer open while recording it will significantly slow down the rate of data capture. Only open the mubu viewer after you have recorded and close before recording again. 
+
+
+## video documentation
+1. screen capture: quicktime
+1. video recording from an angle that gets your iteraction contact points: for me it is my hands and head/mouth
+![Alt text](assets/videoPosition.png "Title")
+1. once you have started both screen capture and video recording if you could clap your hands such that we have a sync point for the audio-video
+	1. NOTE: If you are using headphones (vs speakers) for your system output (as I do) have the video recorder's audio record the room and the screen capture record the output of your system - and using a microphone that is output through your system - then clap such as to have the sync point. 
