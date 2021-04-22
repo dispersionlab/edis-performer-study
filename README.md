@@ -57,8 +57,8 @@ The session capture module contains 2 separate submodules. The first in the `ins
 ## video documentation
 1. screen capture: quicktime
 1. video recording from an angle that gets your iteraction contact points: for me it is my hands and head/mouth
-![Alt text](assets/videoPosition.png "Title")
-<img src="assets/videoPosition.png" alt="drawing" width="50%"/>
+<!-- ![Alt text](assets/videoPosition.png "Title") -->
+<center><img src="assets/videoPosition.png" alt="drawing" width="75%" /></center>
 <!-- // ![alt text](https://github.com/dispersionlab/edis-performer-study/blob/main/assets/videoPosition.png) -->
 1. once you have started both screen capture and video recording if you could clap your hands such that we have a sync point for the audio-video
 	1. NOTE: If you are using headphones (vs speakers) for your system output (as I do) have the video recorder's audio record the room and the screen capture record the output of your system - and using a microphone that is output through your system - then clap such as to have the sync point. 
