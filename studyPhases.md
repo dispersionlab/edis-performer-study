@@ -1,3 +1,4 @@
+# EDIS: performer-perspectives - overview of 3 phases
 ## The first phase includes:
 1.  Review online tutorials for:
     1. setting up, configuring and testing the capture module for control data and audio. This will include setting up your system to send the control data to the capture module (ex. through UPD sends) if this is not already implemented. Please let me know or remind me if sending the control data is something you need help setting up. 1 hour
