@@ -1,5 +1,5 @@
 # Embodied Digital Instrumental Systems: performer-system perspectives
-Welcome Doug and Kieran!!
+Welcome Doug and Kieran!! This page will change on Sunday May 25th and will be moved to the page prototypeStudy.md. 
 
 ## overview
 0. Timeline
