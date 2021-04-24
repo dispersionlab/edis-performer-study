@@ -43,9 +43,9 @@ The session capture module contains 2 separate submodules. The first in the `ins
 
 ### 1.3. session capture
 - session capture is located in the database folder of the dispersion lab git repo and is called:      
- `d.db.session.capture-mubu-buffer-node-v2.0.maxpat`
+ `d.db.session.capture-mubu-buffer-v2.0.maxpat`
 -  [session capture](https://youtu.be/MbhJ0SMNBpk) (link to video instructions)
-1. locate `d.db.session.capture-mubu-buffer-node-v2.0.maxpat` in the database folder and open patch
+1. locate `d.db.session.capture-mubu-buffer-v2.0.maxpat` in the database folder and open patch
 1. verify you are sending data to the right port
 1. check data monitor to verify session capture is receiving data
 1. choose folder where you will save files from session capture
