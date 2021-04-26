@@ -49,10 +49,10 @@ In order for `session capture` to function correctly we need to ensure:
 1. Add the MUBU max package: 
     - once max is installed, open max and navigate to `File/Show Package Manager`
     * in the Package Manager, search for `Mubu` and install the package
-<br/>
-<img src="assets/edis-mubupackage.gif" alt="drawing" width="70%" />
-<br/>
-<br/>
+    <br/>
+    <img src="assets/edis-mubupackage.gif" alt="drawing" width="70%" />
+    <br/>
+    <br/>
 
 1. Download/clone the dispersion lab software from this GitHub repository
     - navigate to the `green code button` near the top of this page, click on it, and select download. A compressed file will be downloaded to your downloads folder. Move this folder to the directory you would like it to be. 
