@@ -13,7 +13,7 @@ There are some aids to help this process go smoothly including:
     1. video documenting your performance session 
 1. process for submitting your files as a compressed folder
 
-## overview
+## OVERVIEW
 0. Timeline
 1. Instructions: Session Capture module
 1. Instructions: Video + Screen capture
@@ -23,14 +23,14 @@ There are some aids to help this process go smoothly including:
 1. Submitting your files
 1. Setting up an interview date/time
 
-## 0.0 Timeline
+## 0.0 TIMELINE
 
 For Phase I of the study 
 - please go over items 1 & 2 - the instructions for the `session capture` module and the video + screen capture today (Monday April 26th) or tomorrow (Tuesday April 27th) - if possible, such that if any issues arise, we can resolve them as soon as possible - ideally by Wednesday April 28th.
 - please aim to have the main outcomes completed by Thursday April 29th or Friday April 30th, such that we can schedule interviews for early the following week (Week of May 3rd) as it is important to have the interviews completed before we can start [Phase II](phaseII.md). 
 - If there is an issue, please let me know so that we can adjust accordingly - `life happens and I would like this experience to be as stress free as possible for you`. 
 
-## 1.0 Session Capture Module
+## 1.0 SESSION CAPTURE MODULE
 The session capture module contains 2 separate submodules: 
 - the first is the `instrument definer` module that receives your control data sent over udp and creates the necessary information structure (held in a JSON file) that informs 
 - the second submodule `session capture` with the necessary components to capture the control data and audio output from your performance system. 
@@ -134,7 +134,7 @@ In order for `session capture` to function correctly we need to ensure:
         <br/>
         <br/>
 
-## 2.0 video documentation
+## 2.0 VIDEO DOCUMENTATION
 1. screen capture (with audio for sync purposes): 
 - `NOTE`: if you alread have a process for recording your screen (with audio) than use that which is familiar. Below are examples for those for whom this may be unfamiliar. 
 - for mac: QuickTime
@@ -165,14 +165,14 @@ In order for `session capture` to function correctly we need to ensure:
 3. once you have started both screen capture and video recording if you could clap your hands such that we have a sync point for the audio-video
     1. `NOTE`: If you are using headphones (vs speakers) for your system output (as I do) have the video recorder's audio record the room and the screen capture record the output of your system - and using a microphone that is output through your system - then clap such as to have the sync point. This can be easily setup in OBS (see video above)
 
-## 3.0 questionnaire link
+## 3.0 QUESTIONNAIRE LINK
 - please fill out [EDIS:performer-perspectives questionnare](https://docs.google.com/forms/d/e/1FAIpQLScneAqfCojfFYqSxHCCaCvpgi8sH7hSNNKe-HH4yK4Xe7Q1Gg/viewform) (link)
-## 4.0 notes on documenting 20-30 min performance session
+## 4.0 NOTES ON DOCUMENTING 20-30 min PERFORMANCE SESSION
 1. start your audio-video/screen capture for documentation
 1. setup and start the session capture module ensuring data and audio are being sent to max. 
 1. perform for 20-30 minutes (no longer than an hour as session capture will stop recording)
 1. the approach to the performance is up to you – an improvisation, performing a composed piece, a rehearsal, study, etc.  
-## 5.0 instructions for guided reflection
+## 5.0 INSTRUCTIONS FOR GUIDED REFLECTION
 
 - After you have recorded your performance session, take about 5-10 mins to reflect on your performance (using the audio/video documentation) and select 1-3 sections, approximately 30secs - a few minutes in length, noting start and end times and briefly describe why you chose this/these section(s).
     - For each, briefly describe how your actions reflect in the moment intentions at the level of interaction. Most likely this will relate to what your system does and how you control/guide/interact with it.
@@ -181,7 +181,7 @@ In order for `session capture` to function correctly we need to ensure:
 - the guided reflection can be documented as a text, audio, or video file, whatever is most comfortable for you. 
 - the guided reflection will provide a starting point for the semi-structured interview
 
-## 6.0 Submitting your files
+## 6.0 SUBMITTING YOUR FILES
 1. put all of your files into a single folder: 
     - session capture JSON and AIF files
     - the video file(s) from the performance session documentation
@@ -189,7 +189,7 @@ In order for `session capture` to function correctly we need to ensure:
     - and your instrumentDefinitions.json file. Located in: 
         - `edis-performer-study/dev/instrumentDefiner/instrumentDefinitions.json`
 1. compress the folder and rename the new compressed file with your name
-1. The limit for the (compressed folder) file that you can send is 100 GB. If your file goes over this (which it shouldn't) please export a compressed video file from QuickTime to reduce the overall size (selecting 480p from the file/export as/480p will reduce the size by roughly 1/3 while providing a satisfactory resolution for our purposes) 
+1. The limit for the (compressed folder) file that you can send is 100 GB. Mostly like you will be in the 2.3 - 5 GB depending on the length of your performance session. 
 4. [link to file request to send your compressed file to my dropbox (private)](https://www.dropbox.com/request/2bVKcjXAZqI9Ya2r8cR9)
-## 7.0 Setting up an interview
+## 7.0 SETTING UP AN INTERVIEW
 - once you have submitted your files, I will email you to set up a date/time for the interview. 
