@@ -187,24 +187,24 @@ In order for `session capture` to function correctly we need to ensure:
 - please fill out [EDIS:performer-perspectives questionnare](https://docs.google.com/forms/d/e/1FAIpQLScneAqfCojfFYqSxHCCaCvpgi8sH7hSNNKe-HH4yK4Xe7Q1Gg/viewform) (link)
 ## 4.0 NOTES ON DOCUMENTING 20-30 min PERFORMANCE SESSION
 1. start your audio-video/screen capture for documentation
-1. setup and start the session capture module ensuring data and audio are being sent to max. 
+1. setup, test, and start the session capture module ensuring data and audio are being sent to max. 
 1. perform for 20-30 minutes (no longer than an hour as session capture will stop recording)
 1. the approach to the performance is up to you – an improvisation, performing a composed piece, a rehearsal, study, etc.  
 ## 5.0 INSTRUCTIONS FOR GUIDED REFLECTION
 
-- After you have recorded your performance session, take about 5-10 mins to reflect on your performance (using the audio/video documentation) and select 1-3 sections, approximately 30secs - a few minutes in length, noting start and end times and briefly describe why you chose this/these section(s).
+1. After you have recorded your performance session, take about 5-10 mins to reflect on your performance (using the audio/video documentation) and select 1-3 sections, approximately 30secs - a few minutes in length, noting start and end times and briefly describe why you chose this/these section(s).
     - For each, briefly describe how your actions reflect in the moment intentions at the level of interaction. Most likely this will relate to what your system does and how you control/guide/interact with it.
-- In general - comment on what worked and didn’t work in terms of what you were attempting to do?
-- please mention any other comments/thoughts that come to mind. 
-- the guided reflection can be documented as a text, audio, or video file, whatever is most comfortable for you. 
-- the guided reflection will provide a starting point for the semi-structured interview
+1. In general - comment on what worked and didn’t work in terms of what you were attempting to do?
+1. please mention any other comments/thoughts that come to mind. 
+1. the guided reflection can be documented as a text, audio, or video file, whatever is most comfortable for you. 
+1. the guided reflection will provide a starting point for the semi-structured interview
 
 ## 6.0 SUBMITTING YOUR FILES
 1. put all of your files into a single folder: 
-    - session capture JSON and AIF files
-    - the video file(s) from the performance session documentation
-    - guided reflection text, audio, or video file. 
-    - and your instrumentDefinitions.json file. Located in: 
+    1. session capture JSON and AIF files
+    1. the video file(s) from the performance session documentation
+    1. guided reflection text, audio, or video file. 
+    1. and your instrumentDefinitions.json file. Located in: 
         - `edis-performer-study/dev/instrumentDefiner/instrumentDefinitions.json`
 1. compress the folder and rename the new compressed file with your name
 1. The limit for the (compressed folder) file that you can send is 100 GB. Mostly like you will be in the 2.3 - 5 GB depending on the length of your performance session. 
