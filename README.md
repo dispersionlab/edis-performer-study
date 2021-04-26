@@ -73,7 +73,7 @@ In order for `session capture` to function correctly we need to ensure:
 1. In max, go to `Options/File Preferences...`
     * Click the "+" in the lower left corner
     * Add the path of the main directory (`edis-performer-study folder`) that you downloaded or cloned from this GitHub repository 
-    
+
     <img src="assets/edis-maxFilePaths.gif" alt="drawing" width="70%" />
     <br/>
     <br/>
@@ -151,9 +151,12 @@ In order for `session capture` to function correctly we need to ensure:
 <summary>click to collapse/expand section</summary>
 
 <br/>
+
 1. screen capture (with audio for sync purposes): 
+
 - `NOTE`: if you alread have a process for recording your screen (with audio) than use that which is familiar. Below are examples for those for whom this may be unfamiliar. 
 - for mac: QuickTime
+
     <br/>
     <img src="assets/edis-quicktime.gif" alt="drawing" width="70%" />
     <br/>
