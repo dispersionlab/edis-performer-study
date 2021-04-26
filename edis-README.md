@@ -47,7 +47,7 @@ In order for `session capture` to function correctly we need to ensure:
     - if you have already used the free trial period you will still be able to run the software for this study - you just will not be able to save any changes made to max patches (which is not part of this study - so we should not be affected by this).
     - an FYI - software made in max are called patches. 
 1. Add the MUBU max package: 
-    - once max is installed, open max and navigate to `File/Show Package Manager` (see image below)
+    - once max is installed, open max and navigate to `File/Show Package Manager` (see image/gif below)
     * in the Package Manager, search for `Mubu` and install the package (the button will be green for you)
     <br/>
     <img src="assets/edis-mubupackage.gif" alt="drawing" width="70%" />
@@ -75,20 +75,20 @@ In order for `session capture` to function correctly we need to ensure:
 
 #### 1.2.1 sending your control data to max
 - send your control data in OSC format over UDP
-- please contact me as soon as possible if you are experiencing issues sending control data from your instrumental system OR you have issues with `instrument definer` (below) recognizing the data you are sending, such that I can help work out a solution.
+- ***`NOTE`***: please contact me as soon as possible if you are experiencing issues sending control data from your instrumental system OR you have issues with `instrument definer` (below) recognizing the data you are sending, such that I can help work out a solution.
 
 #### 1.2.2 instrument definer instructions
 -  [instrument definer](https://youtu.be/--z0qM8KyEU) (link to video instructions)
-1. locate `db.instrumentDefiner.maxpat` in the `edis-performer-study` folder and open the patch. 
-1. verify that your control data is being sent to the correct UDP port (choose the port in the `instrument definer` patch)
-1. set the instrument name: this will be the name you choose from `session capture`
-1. set author name (optional)
-1. move through each of your control parameters
-1. depending on the amount of data you are sending at one time and/or the controllers/sensors you are using, `instrument definer` may slow down. If this is continually an issue, if possible, reduce the amount of data you are sending at one time - see video above. If this remains an issue, please contact me such that we can work out a solution.  
-1. if possible, it is best to send each collection of parameters individually 
-1. check through the dropdown menu that all relevant parameters are accounted for
-1. save
-1. now your instrument definition is ready for session capture
+    1. locate `db.instrumentDefiner.maxpat` in the `edis-performer-study` folder and open the patch. 
+    1. verify that your control data is being sent to the correct UDP port (choose the port in the `instrument definer` patch)
+    1. set the instrument name: this will be the name you choose from `session capture`
+    1. set author name (optional)
+    1. move through each of your control parameters
+    1. depending on the amount of data you are sending at one time and/or the controllers/sensors you are using, `instrument definer` may slow down. If this is continually an issue, if possible, reduce the amount of data you are sending at one time - see video above. If this remains an issue, please contact me such that we can work out a solution.  
+    1. if possible, it is best to send each collection of parameters individually 
+    1. check through the dropdown menu that all relevant parameters are accounted for
+    1. save
+    1. now your instrument definition is ready for session capture
 
 ### 1.3 session capture
 - session capture is located in the database folder of the dispersion lab git repo and is called: `d.db.session.capture-mubu-buffer-v2.0.maxpat`
