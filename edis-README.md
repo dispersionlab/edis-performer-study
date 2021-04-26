@@ -145,17 +145,17 @@ In order for `session capture` to function correctly we need to ensure:
 
 - for PC and mac: [OBS](https://obsproject.com/download) (link to software)
     - [video instructions for OBS](https://youtu.be/yoX58uoIbQU) (link to video)
-    1. open OBS
-    1. remove any items in the sources window
-    1. click + button in sources - choose display capture
-    1. if you notice that the it is only capturing a portion of your screen (top left) option-click/right-click/etc the window and select `resize output` and this will update to the full screen
-    1. click + button - `audio output capture` and select the appropriate output (for me it is blackhole)
-    1. may want to capture input (microphone for syncing) - click + button and select `audio input capture` (for the clap)
-    1. test audio - send audio (from max or relevant software) - see signals
-    1. press start recording (bottom right) - perform (or test)
-    1. stop recording
-    1. `importatant` go to settings (bottom right) --> output. Make sure the recording output as .mkv (extra protection if something occurs). Go to advanced settings and choose `automatically remux to mp4`
-    1. settings --> output will show you the file path of where the video file is saved. 
+        1. open OBS
+        1. remove any items in the sources window
+        1. click + button in sources - choose display capture
+        1. if you notice that the it is only capturing a portion of your screen (top left) option-click/right-click/etc the window and select `resize output` and this will update to the full screen
+        1. click + button - `audio output capture` and select the appropriate output (for me it is blackhole)
+        1. may want to capture input (microphone for syncing) - click + button and select `audio input capture` (for the clap)
+        1. test audio - send audio (from max or relevant software) - see signals
+        1. press start recording (bottom right) - perform (or test)
+        1. stop recording
+        1. `importatant` go to settings (bottom right) --> output. Make sure the recording output as .mkv (extra protection if something occurs). Go to advanced settings and choose `automatically remux to mp4`
+        1. settings --> output will show you the file path of where the video file is saved. 
 <!-- <center><img src="assets/screenCapture.png" alt="drawing" width="70%" /></center> -->
 - `NOTE:` it is a known issue that depending on your setup, the interfaces you use, the CPU of your computer, etc. that adding screen capture may inhibit the ability to perform your system and/or capture data. If this is the case, if it is possible to set up two phones/tablets/camaras, one capturing your screen, the other your relevant movements, than please attempt that option. If there is only one video camara available, if it is possible to capture your movements and screen, then attempt that option. If neither of these are possible, do not screen capture. Simply take a screen shot (image) of your screen based setup and just do the video recording. 
 2. video recording from an angle that gets your interaction contact points: for me it is my hands and head/mouth
