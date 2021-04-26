@@ -37,6 +37,7 @@ For Phase I of the study
 <details open >
 <summary>click to collapse/expand section</summary>
 
+<br/>
 
 The session capture module contains 2 separate submodules: 
 - the first is the `instrument definer` module that receives your control data sent over udp and creates the necessary information structure (held in a JSON file) that informs 
@@ -145,9 +146,11 @@ In order for `session capture` to function correctly we need to ensure:
 </details>
 
 ## 2.0 VIDEO DOCUMENTATION
+
 <details open >
 <summary>click to collapse/expand section</summary>
 
+<br/>
 1. screen capture (with audio for sync purposes): 
 - `NOTE`: if you alread have a process for recording your screen (with audio) than use that which is familiar. Below are examples for those for whom this may be unfamiliar. 
 - for mac: QuickTime
