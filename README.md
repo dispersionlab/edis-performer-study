@@ -73,10 +73,10 @@ In order for `session capture` to function correctly we need to ensure:
 1. In max, go to `Options/File Preferences...`
     * Click the "+" in the lower left corner
     * Add the path of the main directory (`edis-performer-study folder`) that you downloaded or cloned from this GitHub repository 
-<br/>
-<img src="assets/edis-maxFilePaths.gif" alt="drawing" width="70%" />
-<br/>
-<br/>
+    <br/>
+    <img src="assets/edis-maxFilePaths.gif" alt="drawing" width="70%" />
+    <br/>
+    <br/>
 
 ### 1.2 instrument definer
 - the instrument definer is located the top level of the `edis-performer-study folder`. The file is named: `db.instrumentDefiner.maxpat`
