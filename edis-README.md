@@ -14,6 +14,7 @@ There are some aids to help this process go smoothly including:
 1. process for submitting your files as a compressed folder
 
 ## OVERVIEW
+
 0. Timeline
 1. Instructions: Session Capture module
 1. Instructions: Video + Screen capture
@@ -31,6 +32,12 @@ For Phase I of the study
 - If there is an issue, please let me know so that we can adjust accordingly - `life happens and I would like this experience to be as stress free as possible for you`. 
 
 ## 1.0 SESSION CAPTURE MODULE
+
+
+<details open >
+<summary>click to collapse/expand section</summary>
+
+
 The session capture module contains 2 separate submodules: 
 - the first is the `instrument definer` module that receives your control data sent over udp and creates the necessary information structure (held in a JSON file) that informs 
 - the second submodule `session capture` with the necessary components to capture the control data and audio output from your performance system. 
@@ -134,7 +141,13 @@ In order for `session capture` to function correctly we need to ensure:
         <br/>
         <br/>
 
+
+</details>
+
 ## 2.0 VIDEO DOCUMENTATION
+<details open >
+<summary>click to collapse/expand section</summary>
+
 1. screen capture (with audio for sync purposes): 
 - `NOTE`: if you alread have a process for recording your screen (with audio) than use that which is familiar. Below are examples for those for whom this may be unfamiliar. 
 - for mac: QuickTime
@@ -164,6 +177,8 @@ In order for `session capture` to function correctly we need to ensure:
 
 3. once you have started both screen capture and video recording if you could clap your hands such that we have a sync point for the audio-video
     1. `NOTE`: If you are using headphones (vs speakers) for your system output (as I do) have the video recorder's audio record the room and the screen capture record the output of your system - and using a microphone that is output through your system - then clap such as to have the sync point. This can be easily setup in OBS (see video above)
+
+</details>
 
 ## 3.0 QUESTIONNAIRE LINK
 - please fill out [EDIS:performer-perspectives questionnare](https://docs.google.com/forms/d/e/1FAIpQLScneAqfCojfFYqSxHCCaCvpgi8sH7hSNNKe-HH4yK4Xe7Q1Gg/viewform) (link)
