@@ -31,7 +31,7 @@ For Phase I of the study
 - please aim to have the main outcomes completed by Thursday April 29th or Friday April 30th, such that we can schedule interviews for early the following week (Week of May 3rd) as it is important to have the interviews completed before we can start [Phase II](phaseII.md). 
 - If there is an issue, please let me know so that we can adjust accordingly - `life happens and I would like this experience to be as stress free as possible for you`. 
 
-## 1.0 SESSION CAPTURE MODULE
+## 1.0 INSTRUCTIONS: SESSION CAPTURE MODULE
 
 
 <details open >
@@ -145,7 +145,7 @@ In order for `session capture` to function correctly we need to ensure:
 
 </details>
 
-## 2.0 VIDEO DOCUMENTATION
+## 2.0 INSTRUCTIONS: VIDEO DOCUMENTATION
 
 <details open >
 <summary>click to collapse/expand section</summary>
