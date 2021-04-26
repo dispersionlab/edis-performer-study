@@ -7110,5 +7110,412 @@
 		}
 
 	}
+,
+	"fire" : 	{
+		"METADATA" : 		{
+			"instrumentName" : "fire",
+			"author" : "",
+			"dateCreated" : "Mon Apr 26 2021 12:49:56 GMT-0400 (EDT)"
+		}
+,
+		"DATA" : 		{
+			"NAMESPACES" : 			{
+				"/cell" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0,
+							"max" : 77
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 1,
+							"max" : 6
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 1
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "cell"
+				}
+,
+				"/f_0" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0,
+							"max" : 0.911522626876831
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0.024725275114179,
+							"max" : 0.898351669311523
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 2
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "f_0"
+				}
+,
+				"/centroid" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.061213992536068,
+							"max" : 0.950102865695953
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0.085164837539196,
+							"max" : 0.90750914812088
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 0.213608294725418
+						}
+,
+						"3" : 						{
+							"mubuColumn" : "d",
+							"colIndex" : 4,
+							"min" : 0,
+							"max" : 0.145311459898949
+						}
+,
+						"4" : 						{
+							"mubuColumn" : "e",
+							"colIndex" : 5,
+							"min" : 0,
+							"max" : 0.324311673641205
+						}
+,
+						"5" : 						{
+							"mubuColumn" : "f",
+							"colIndex" : 6,
+							"min" : 1,
+							"max" : 6
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "centroid"
+				}
+,
+				"/swipe" : 				{
+					"PARAMS" : 					{
+						"mubuColumn" : "swipe",
+						"colIndex" : 1,
+						"min" : 0,
+						"max" : 0.75
+					}
+,
+					"type" : "scalar",
+					"mubuTrack" : "swipe"
+				}
+,
+				"/f_1" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.076646089553833,
+							"max" : 0.92746913433075
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0.073489010334015,
+							"max" : 0.946428596973419
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 2
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "f_1"
+				}
+,
+				"/pinch" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.035335592925549,
+							"max" : 0.057695038616657
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : -0.039249740540981,
+							"max" : 0.124517239630222
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 1
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "pinch"
+				}
+,
+				"/rotate" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : -0.311231046915054,
+							"max" : 0.628519177436829
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : -0.034631051123142,
+							"max" : 0.542548418045044
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 1
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "rotate"
+				}
+,
+				"/f_2" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.132201641798019,
+							"max" : 0.956790149211884
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0.295329660177231,
+							"max" : 0.986263751983643
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 2
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "f_2"
+				}
+,
+				"/f_3" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0,
+							"max" : 0.848251044750214
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0.035714287310839,
+							"max" : 0.984890103340149
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 2
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "f_3"
+				}
+,
+				"/f_4" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.002057613106444,
+							"max" : 0.66460907459259
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0.267170339822769,
+							"max" : 0.983516454696655
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 2
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "f_4"
+				}
+,
+				"/tap" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.142489716410637,
+							"max" : 0.142489716410637
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0.828296720981598,
+							"max" : 0.828296720981598
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 64,
+							"max" : 64
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "tap"
+				}
+
+			}
+,
+			"TRACKS" : 			{
+				"cell" : 				{
+					"type" : "vector",
+					"trackIndex" : 1,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"f_0" : 				{
+					"type" : "vector",
+					"trackIndex" : 2,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"centroid" : 				{
+					"type" : "vector",
+					"trackIndex" : 3,
+					"columns" : [ "a", "b", "c", "d", "e", "f" ]
+				}
+,
+				"swipe" : 				{
+					"type" : "scalar",
+					"trackIndex" : 4,
+					"columns" : [ "swipe" ]
+				}
+,
+				"f_1" : 				{
+					"type" : "vector",
+					"trackIndex" : 5,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"pinch" : 				{
+					"type" : "vector",
+					"trackIndex" : 6,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"rotate" : 				{
+					"type" : "vector",
+					"trackIndex" : 7,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"f_2" : 				{
+					"type" : "vector",
+					"trackIndex" : 8,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"f_3" : 				{
+					"type" : "vector",
+					"trackIndex" : 9,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"f_4" : 				{
+					"type" : "vector",
+					"trackIndex" : 10,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"tap" : 				{
+					"type" : "vector",
+					"trackIndex" : 11,
+					"columns" : [ "a", "b", "c" ]
+				}
+
+			}
+
+		}
+
+	}
 
 }

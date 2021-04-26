@@ -97,7 +97,7 @@ In order for `session capture` to function correctly we need to ensure:
     1. check through the dropdown menu that all relevant parameters are accounted for
     1. save
     1. now your instrument definition is ready for session capture
-
+- close `instrument definer`
 ### 1.3 session capture
 - session capture is located in the database folder of the dispersion lab git repo and is called: `d.db.session.capture-mubu-buffer-v2.0.maxpat`
 #### 1.3.1 sending audio (and control data) to session capture
@@ -114,6 +114,7 @@ In order for `session capture` to function correctly we need to ensure:
 
 
 #### 1.3.2 session capture instructions
+- do not have `instrument definer` open 
 -  [session capture](https://youtu.be/VxhZN52vEUU) (link to video instructions)
     1. locate `d.db.session.capture-mubu-buffer-v2.0.maxpat` in the top level of the `edis-performer-study` folder and open patch
     1. verify you are sending data to the right port number (it is different than `instrument definer`)
