@@ -107,32 +107,32 @@ In order for `session capture` to function correctly we need to ensure:
 
 #### 1.3.2 session capture instructions
 -  [session capture](https://youtu.be/VxhZN52vEUU) (link to video instructions)
-1. locate `d.db.session.capture-mubu-buffer-v2.0.maxpat` in the top level of the `edis-performer-study` folder and open patch
-1. verify you are sending data to the right port number (it is different than `instrument definer`)
-1. check data monitor to verify session capture is receiving data
-1. choose the folder where you will save files from `session capture`
-1. enter session name - use your name with modifiers if desired
-1. choose the instrument name you created from the dropdown menu
-1. choose audio input or output of max 
-    1. by default this is set to audio output with the left/right channels chosen
-    1. make sure you are sending audio to max if necessary. 
-    1. (gif below) if you are sending audio to max you will need to choose input and select the left and right (and deselect left and right for output - just to be sure)
-        <br/>
-        <img src="assets/edis-audioInput.gif" alt="drawing" width="70%" />
-        <br/>
-        <br/>
+    1. locate `d.db.session.capture-mubu-buffer-v2.0.maxpat` in the top level of the `edis-performer-study` folder and open patch
+    1. verify you are sending data to the right port number (it is different than `instrument definer`)
+    1. check data monitor to verify session capture is receiving data
+    1. choose the folder where you will save files from `session capture`
+    1. enter session name - use your name with modifiers if desired
+    1. choose the instrument name you created from the dropdown menu
+    1. choose audio input or output of max 
+        1. by default this is set to audio output with the left/right channels chosen
+        1. make sure you are sending audio to max if necessary. 
+        1. (gif below) if you are sending audio to max you will need to choose input and select the left and right (and deselect left and right for output - just to be sure)
+            <br/>
+            <img src="assets/edis-audioInput.gif" alt="drawing" width="70%" />
+            <br/>
+            <br/>
 
-1. test by starting session capture - perform for a few seconds/minutes and then stop
-1. save -- verify that an audio (aif) and json file have been saved in your folder choice
-1. verify the data has been captured by opening the mubu data viewer
-    1. double click on the `p mubu-view` object
-    1. click  `open data viewer`
-    1. verify the data is there. It might take a second to open 
-1. ***`IMPORTANT`*** do not have the data viewer open while recording with `session capture` it will significantly slow down the rate of data capture. Only open the data viewer after you have recorded and close before recording again.
-    <br/>
-    <img src="assets/edis-closeDataViewer.gif" alt="drawing" width="70%" />
-    <br/>
-    <br/>
+    1. test by starting session capture - perform for a few seconds/minutes and then stop
+    1. save -- verify that an audio (aif) and json file have been saved in your folder choice
+    1. verify the data has been captured by opening the mubu data viewer
+        1. double click on the `p mubu-view` object
+        1. click  `open data viewer`
+        1. verify the data is there. It might take a second to open 
+    1. ***`IMPORTANT`*** do not have the data viewer open while recording with `session capture` it will significantly slow down the rate of data capture. Only open the data viewer after you have recorded and close before recording again.
+        <br/>
+        <img src="assets/edis-closeDataViewer.gif" alt="drawing" width="70%" />
+        <br/>
+        <br/>
 
 ## 2.0 video documentation
 1. screen capture (with audio for sync purposes): 
