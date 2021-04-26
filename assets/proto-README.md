@@ -95,9 +95,10 @@ The session capture module contains 2 separate submodules. The first in the `ins
 - I am open to suggestions here. I have thought about github, dropbox, etc. and have been leaning towards dropbox as it allows me to provide a file request such that you can send your compressed folder with all your files to my private dropbox account. 
 
 - put all of your files into a single folder: 
-	- session capture JSON and AIF files
-	- the video file(s) from the performance session documentation
-	- guided reflection text, audio, or video file. 
+	1. session capture JSON and AIF files
+    1. the video file(s) from the performance session documentation
+    1. guided reflection text, audio, or video file. 
+    1. and your instrumentDefinitions.json file, unless done in the dispersion-lab repo as this will update mine (I think).
 - compress the folder and rename the new compressed file with your name
 - The limit for the (compressed folder) file that you can send is 100 GB. If your file goes over this (which it shouldn't) please export a compressed video file from QuickTime to reduce the overall size (selecting 480p from the file/export as/480p will reduce the size by roughly 1/3 while providing a satisfactory resolution for our purposes) 
 - [link to file request to send your compressed file to my dropbox (private)](https://www.dropbox.com/request/2bVKcjXAZqI9Ya2r8cR9)
