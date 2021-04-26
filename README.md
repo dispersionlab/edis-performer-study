@@ -152,7 +152,7 @@ In order for `session capture` to function correctly we need to ensure:
 
 <br/>
 
-1. screen capture (with audio for sync purposes): 
+1. screen capture (with audio for sync purposes)
 
 - `NOTE`: if you alread have a process for recording your screen (with audio) than use that which is familiar. Below are examples for those for whom this may be unfamiliar. 
 - for mac: QuickTime
