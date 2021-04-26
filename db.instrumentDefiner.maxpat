@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 0.0, -11.0, 734.0, 788.0 ],
+		"rect" : [ 49.0, 158.0, 734.0, 788.0 ],
 		"bglocked" : 1,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -174,7 +174,7 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-88",
-									"items" : [ "greis", ",", "testInstrument", ",", "skeuo-1", ",", "s-test", ",", "greis-2", ",", "catart-lcd", ",", "audioin", ",", "kin", ",", "voice-1", ",", "a-new-instrument", ",", "skeuomorph", ",", "edis-test2", ",", "edis-test3", ",", "kin_2021" ],
+									"items" : [ "greis", ",", "testInstrument", ",", "skeuo-1", ",", "s-test", ",", "greis-2", ",", "catart-lcd", ",", "audioin", ",", "kin", ",", "voice-1", ",", "a-new-instrument", ",", "skeuomorph", ",", "edis-test2", ",", "edis-test3", ",", "kin_2021", ",", "edis-test", ",", "edis-ttt000" ],
 									"maxclass" : "umenu",
 									"numinlets" : 1,
 									"numoutlets" : 3,
@@ -4056,8 +4056,8 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "instDefiner.js",
-				"bootpath" : "~/EDIS-PHASEI/dev/instrumentDefiner",
-				"patcherrelativepath" : "./dev/instrumentDefiner",
+				"bootpath" : "~/dispersion-lab/database/in-development/kieran/instrumentDefiner",
+				"patcherrelativepath" : "../dispersion-lab/database/in-development/kieran/instrumentDefiner",
 				"type" : "TEXT",
 				"implicit" : 1
 			}

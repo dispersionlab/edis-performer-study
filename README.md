@@ -23,6 +23,7 @@ The session capture module contains 2 separate submodules. The first in the `ins
 #### 1.1.1 Setting Up Max and the mubu package for max
 1. In Max, navigate to "File->Show Package Manager"
     * in the Package Manager, search for "Mubu" and install the package
+    * ??? add gif
 ### 1.2 instrument definer
 - the instrument definer is located in database folder of the dispersion lab git repo and is called 
 `db.instrumentDefiner.maxpat`

@@ -6062,5 +6062,1053 @@
 		}
 
 	}
+,
+	"edis-1" : 	{
+		"METADATA" : 		{
+			"instrumentName" : "edis-1",
+			"author" : "ian jarvis",
+			"dateCreated" : "Sun Apr 25 2021 18:54:02 GMT-0400 (EDT)"
+		}
+,
+		"DATA" : 		{
+			"NAMESPACES" : 			{
+				"/pyr" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : -73.882926940917969,
+							"max" : 78.85980224609375
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : -179.882614135742188,
+							"max" : 180.063888549804688
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : -180.0125732421875,
+							"max" : 180.071334838867188
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "pyr"
+				}
+,
+				"/finger" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0,
+							"max" : 1
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0,
+							"max" : 1
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 1
+						}
+,
+						"3" : 						{
+							"mubuColumn" : "d",
+							"colIndex" : 4,
+							"min" : 0,
+							"max" : 1
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "finger"
+				}
+,
+				"/pen" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.016666667535901,
+							"max" : 0.964814841747284
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0.008571428246796,
+							"max" : 0.959999978542328
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0.025335999205709,
+							"max" : 0.411498993635178
+						}
+,
+						"3" : 						{
+							"mubuColumn" : "d",
+							"colIndex" : 4,
+							"min" : 0.001089234370738,
+							"max" : 0.999953925609589
+						}
+,
+						"4" : 						{
+							"mubuColumn" : "e",
+							"colIndex" : 5,
+							"min" : 0.205126017332077,
+							"max" : 0.987261056900024
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "pen"
+				}
+,
+				"/audioDescript" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 52.127658843994141,
+							"max" : 5323.20703125
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0.002549523720518,
+							"max" : 0.400639235973358
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 0.598129570484161
+						}
+,
+						"3" : 						{
+							"mubuColumn" : "d",
+							"colIndex" : 4,
+							"min" : -0.23150160908699,
+							"max" : 1.010987162590027
+						}
+,
+						"4" : 						{
+							"mubuColumn" : "e",
+							"colIndex" : 5,
+							"min" : -64.748939514160156,
+							"max" : -13.579384803771973
+						}
+,
+						"5" : 						{
+							"mubuColumn" : "f",
+							"colIndex" : 6,
+							"min" : 341.497772216796875,
+							"max" : 6204.9619140625
+						}
+,
+						"6" : 						{
+							"mubuColumn" : "g",
+							"colIndex" : 7,
+							"min" : 81825.5703125,
+							"max" : 10372504
+						}
+,
+						"7" : 						{
+							"mubuColumn" : "h",
+							"colIndex" : 8,
+							"min" : -0.985960960388184,
+							"max" : 13.022525787353516
+						}
+,
+						"8" : 						{
+							"mubuColumn" : "i",
+							"colIndex" : 9,
+							"min" : 1.768823146820068,
+							"max" : 267.176666259765625
+						}
+,
+						"9" : 						{
+							"mubuColumn" : "j",
+							"colIndex" : 10,
+							"min" : 0,
+							"max" : 0
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "audioDescript"
+				}
+,
+				"/cell" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0,
+							"max" : 75
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 1,
+							"max" : 5
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 1
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "cell"
+				}
+,
+				"/f_1" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.083058305084705,
+							"max" : 0.556655645370483
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0.200145557522774,
+							"max" : 0.898107707500458
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 2
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "f_1"
+				}
+,
+				"/centroid" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.209570959210396,
+							"max" : 0.770407021045685
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0.101710334420204,
+							"max" : 0.700873374938965
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 0.340921849012375
+						}
+,
+						"3" : 						{
+							"mubuColumn" : "d",
+							"colIndex" : 4,
+							"min" : 0,
+							"max" : 0.331237703561783
+						}
+,
+						"4" : 						{
+							"mubuColumn" : "e",
+							"colIndex" : 5,
+							"min" : 0,
+							"max" : 0.563937902450562
+						}
+,
+						"5" : 						{
+							"mubuColumn" : "f",
+							"colIndex" : 6,
+							"min" : 1,
+							"max" : 5
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "centroid"
+				}
+,
+				"/f_2" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.064356438815594,
+							"max" : 0.836083590984344
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : -0.013828238472342,
+							"max" : 0.550218343734741
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 2
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "f_2"
+				}
+,
+				"/f_3" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.136413648724556,
+							"max" : 0.711221098899841
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : -0.096069872379303,
+							"max" : 0.611353695392609
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 2
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "f_3"
+				}
+,
+				"/f_4" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.394389450550079,
+							"max" : 0.995049476623535
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : -0.096069872379303,
+							"max" : 0.671033501625061
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 2
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "f_4"
+				}
+,
+				"/rotate" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : -0.761011779308319,
+							"max" : -0.026133993640542
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : -0.039511900395155,
+							"max" : 0.026579145342112
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 1
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "rotate"
+				}
+,
+				"/f_5" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.229372933506966,
+							"max" : 0.769526958465576
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0.418486177921295,
+							"max" : 0.885735094547272
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 2
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "f_5"
+				}
+
+			}
+,
+			"TRACKS" : 			{
+				"pyr" : 				{
+					"type" : "vector",
+					"trackIndex" : 1,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"finger" : 				{
+					"type" : "vector",
+					"trackIndex" : 2,
+					"columns" : [ "a", "b", "c", "d" ]
+				}
+,
+				"pen" : 				{
+					"type" : "vector",
+					"trackIndex" : 3,
+					"columns" : [ "a", "b", "c", "d", "e" ]
+				}
+,
+				"audioDescript" : 				{
+					"type" : "vector",
+					"trackIndex" : 4,
+					"columns" : [ "a", "b", "c", "d", "e", "f", "g", "h", "i", "j" ]
+				}
+,
+				"cell" : 				{
+					"type" : "vector",
+					"trackIndex" : 5,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"f_1" : 				{
+					"type" : "vector",
+					"trackIndex" : 6,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"centroid" : 				{
+					"type" : "vector",
+					"trackIndex" : 7,
+					"columns" : [ "a", "b", "c", "d", "e", "f" ]
+				}
+,
+				"f_2" : 				{
+					"type" : "vector",
+					"trackIndex" : 8,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"f_3" : 				{
+					"type" : "vector",
+					"trackIndex" : 9,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"f_4" : 				{
+					"type" : "vector",
+					"trackIndex" : 10,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"rotate" : 				{
+					"type" : "vector",
+					"trackIndex" : 11,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"f_5" : 				{
+					"type" : "vector",
+					"trackIndex" : 12,
+					"columns" : [ "a", "b", "c" ]
+				}
+
+			}
+
+		}
+
+	}
+,
+	"edis" : 	{
+		"METADATA" : 		{
+			"instrumentName" : "edis",
+			"author" : "ian jarvis",
+			"dateCreated" : "Sun Apr 25 2021 19:10:41 GMT-0400 (EDT)"
+		}
+,
+		"DATA" : 		{
+			"NAMESPACES" : 			{
+				"/pyr" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : -30.464820861816406,
+							"max" : 80.689933776855469
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : -80.115272521972656,
+							"max" : 99.411323547363281
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : -180.056976318359375,
+							"max" : 179.284454345703125
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "pyr"
+				}
+,
+				"/finger" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0,
+							"max" : 1
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0,
+							"max" : 1
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 1
+						}
+,
+						"3" : 						{
+							"mubuColumn" : "d",
+							"colIndex" : 4,
+							"min" : 0,
+							"max" : 1
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "finger"
+				}
+,
+				"/pen" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.01944444514811,
+							"max" : 0.882407426834106
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0.018571428954601,
+							"max" : 0.932857155799866
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0.039417020976543,
+							"max" : 0.405624985694885
+						}
+,
+						"3" : 						{
+							"mubuColumn" : "d",
+							"colIndex" : 4,
+							"min" : 0.00025583236129,
+							"max" : 0.997976124286652
+						}
+,
+						"4" : 						{
+							"mubuColumn" : "e",
+							"colIndex" : 5,
+							"min" : 0.746833384037018,
+							"max" : 0.999752879142761
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "pen"
+				}
+,
+				"/f_1" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : -0.007700770162046,
+							"max" : 0.924092411994934
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0.076419211924076,
+							"max" : 0.860262036323547
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 2
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "f_1"
+				}
+,
+				"/centroid" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.188118815422058,
+							"max" : 0.892739295959473
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0.213246002793312,
+							"max" : 0.894468724727631
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 0.397261828184128
+						}
+,
+						"3" : 						{
+							"mubuColumn" : "d",
+							"colIndex" : 4,
+							"min" : 0,
+							"max" : 0.315742492675781
+						}
+,
+						"4" : 						{
+							"mubuColumn" : "e",
+							"colIndex" : 5,
+							"min" : 0,
+							"max" : 0.660075962543488
+						}
+,
+						"5" : 						{
+							"mubuColumn" : "f",
+							"colIndex" : 6,
+							"min" : 1,
+							"max" : 6
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "centroid"
+				}
+,
+				"/f_2" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.17326731979847,
+							"max" : 0.834433436393738
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : -0.034206695854664,
+							"max" : 0.997816622257233
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 2
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "f_2"
+				}
+,
+				"/f_3" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.0935093536973,
+							"max" : 0.814081430435181
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : -0.038573507219553,
+							"max" : 0.793304204940796
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 2
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "f_3"
+				}
+,
+				"/f_4" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.491749167442322,
+							"max" : 1.066556692123413
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0.074235804378986,
+							"max" : 0.791848599910736
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 2
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "f_4"
+				}
+,
+				"/f_5" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.058305829763412,
+							"max" : 0.92684268951416
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0.334788948297501,
+							"max" : 1.007277965545654
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 2
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "f_5"
+				}
+
+			}
+,
+			"TRACKS" : 			{
+				"pyr" : 				{
+					"type" : "vector",
+					"trackIndex" : 1,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"finger" : 				{
+					"type" : "vector",
+					"trackIndex" : 2,
+					"columns" : [ "a", "b", "c", "d" ]
+				}
+,
+				"pen" : 				{
+					"type" : "vector",
+					"trackIndex" : 3,
+					"columns" : [ "a", "b", "c", "d", "e" ]
+				}
+,
+				"f_1" : 				{
+					"type" : "vector",
+					"trackIndex" : 4,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"centroid" : 				{
+					"type" : "vector",
+					"trackIndex" : 5,
+					"columns" : [ "a", "b", "c", "d", "e", "f" ]
+				}
+,
+				"f_2" : 				{
+					"type" : "vector",
+					"trackIndex" : 6,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"f_3" : 				{
+					"type" : "vector",
+					"trackIndex" : 7,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"f_4" : 				{
+					"type" : "vector",
+					"trackIndex" : 8,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"f_5" : 				{
+					"type" : "vector",
+					"trackIndex" : 9,
+					"columns" : [ "a", "b", "c" ]
+				}
+
+			}
+
+		}
+
+	}
+,
+	"edis-testing1" : 	{
+		"METADATA" : 		{
+			"instrumentName" : "edis-testing1",
+			"author" : "ian jarvis",
+			"dateCreated" : "Mon Apr 26 2021 07:00:02 GMT-0400 (EDT)"
+		}
+,
+		"DATA" : 		{
+			"NAMESPACES" : 			{
+				"/pen" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0.003703703638166,
+							"max" : 0.936111092567444
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : -0.001428571413271,
+							"max" : 0.947142839431763
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0.030008025467396,
+							"max" : 0.387499988079071
+						}
+,
+						"3" : 						{
+							"mubuColumn" : "d",
+							"colIndex" : 4,
+							"min" : 0.000702905177604,
+							"max" : 0.999895632266998
+						}
+,
+						"4" : 						{
+							"mubuColumn" : "e",
+							"colIndex" : 5,
+							"min" : 0.519385874271393,
+							"max" : 1.000658273696899
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "pen"
+				}
+,
+				"/pyr" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : -81.740425109863281,
+							"max" : 84.474372863769531
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : -150.218521118164062,
+							"max" : 177.15521240234375
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : -159.891036987304688,
+							"max" : 169.980331420898438
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "pyr"
+				}
+,
+				"/finger" : 				{
+					"PARAMS" : 					{
+						"0" : 						{
+							"mubuColumn" : "a",
+							"colIndex" : 1,
+							"min" : 0,
+							"max" : 1
+						}
+,
+						"1" : 						{
+							"mubuColumn" : "b",
+							"colIndex" : 2,
+							"min" : 0,
+							"max" : 1
+						}
+,
+						"2" : 						{
+							"mubuColumn" : "c",
+							"colIndex" : 3,
+							"min" : 0,
+							"max" : 1
+						}
+,
+						"3" : 						{
+							"mubuColumn" : "d",
+							"colIndex" : 4,
+							"min" : 0,
+							"max" : 1
+						}
+
+					}
+,
+					"type" : "vector",
+					"mubuTrack" : "finger"
+				}
+
+			}
+,
+			"TRACKS" : 			{
+				"pen" : 				{
+					"type" : "vector",
+					"trackIndex" : 1,
+					"columns" : [ "a", "b", "c", "d", "e" ]
+				}
+,
+				"pyr" : 				{
+					"type" : "vector",
+					"trackIndex" : 2,
+					"columns" : [ "a", "b", "c" ]
+				}
+,
+				"finger" : 				{
+					"type" : "vector",
+					"trackIndex" : 3,
+					"columns" : [ "a", "b", "c", "d" ]
+				}
+
+			}
+
+		}
+
+	}
 
 }
