@@ -159,8 +159,7 @@ In order for `session capture` to function correctly we need to ensure:
 <!-- <center><img src="assets/screenCapture.png" alt="drawing" width="70%" /></center> -->
 - `NOTE:` it is a known issue that depending on your setup, the interfaces you use, the CPU of your computer, etc. that adding screen capture may inhibit the ability to perform your system and/or capture data. If this is the case, if it is possible to set up two phones/tablets/camaras, one capturing your screen, the other your relevant movements, than please attempt that option. If there is only one video camara available, if it is possible to capture your movements and screen, then attempt that option. If neither of these are possible, do not screen capture. Simply take a screen shot (image) of your screen based setup and just do the video recording. 
 2. video recording from an angle that gets your interaction contact points: for me it is my hands and head/mouth
-<!-- ![Alt text](assets/videoPosition.png "Title") -->
-<center><img src="assets/videoPosition.png" alt="drawing" width="70%" /></center>
+    <center><img src="assets/videoPosition.png" alt="drawing" width="70%" /></center>
 <!-- // ![alt text](https://github.com/dispersionlab/edis-performer-study/blob/main/assets/videoPosition.png) -->
 
 3. once you have started both screen capture and video recording if you could clap your hands such that we have a sync point for the audio-video
