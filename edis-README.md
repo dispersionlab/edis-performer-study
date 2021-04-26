@@ -47,8 +47,8 @@ In order for `session capture` to function correctly we need to ensure:
     - if you have already used the free trial period you will still be able to run the software for this study - you just will not be able to save any changes made to max patches (which is not part of this study - so we should not be affected by this).
     - an FYI - software made in max are called patches. 
 1. Add the MUBU max package: 
-    - once max is installed, open max and navigate to `File/Show Package Manager`
-    * in the Package Manager, search for `Mubu` and install the package
+    - once max is installed, open max and navigate to `File/Show Package Manager` (see image below)
+    * in the Package Manager, search for `Mubu` and install the package (the button will be green for you)
     <br/>
     <img src="assets/edis-mubupackage.gif" alt="drawing" width="70%" />
     <br/>
