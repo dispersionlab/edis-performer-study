@@ -1,5 +1,7 @@
 # PHASE I
 # Embodied Digital Instrumental Systems: performer-system perspectives
+- return to [phase II](../README.md)
+
 Welcome to the information page for the study *EDIS: performer-system perspectives*. Currently we are in **Phase 1** of the study. The main outcomes are: 
 
 1. complete the questionnaire
@@ -28,7 +30,7 @@ There are some aids to help this process go smoothly including:
 
 For Phase I of the study 
 - please go over items 1 & 2 - the instructions for the `session capture` module and the video + screen capture today (Monday April 26th) or tomorrow (Tuesday April 27th) - if possible, such that if any issues arise, we can resolve them as soon as possible - ideally by Wednesday April 28th.
-- please aim to have the main outcomes completed by Thursday April 29th or Friday April 30th, such that we can schedule interviews for early the following week (Week of May 3rd) as it is important to have the interviews completed before we can start [Phase II](phaseII-overview.md). 
+- please aim to have the main outcomes completed by Thursday April 29th or Friday April 30th, such that we can schedule interviews for early the following week (Week of May 3rd) as it is important to have the interviews completed before we can start [Phase II](../README.md). 
 - If there is an issue, please let me know so that we can adjust accordingly - `life happens and I would like this experience to be as stress free as possible for you`. 
 
 ## 1.0 INSTRUCTIONS: SESSION CAPTURE MODULE
