@@ -38,5 +38,6 @@ Put all of your files for all audio clips into a single folder:
 1. compress the folder and rename the new compressed file with your name
 4. [link to file request to send your compressed file to my dropbox (private)](https://www.dropbox.com/request/2bVKcjXAZqI9Ya2r8cR9)
 
+Please aim to complete phase II by Sunday May 23rd. 
 ## 2. Sound-tracing Study
 Will be updated shortly
