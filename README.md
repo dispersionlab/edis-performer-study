@@ -97,8 +97,7 @@ Use your email that we have been communicating with and `choose a password` and 
 ### 4. choose Gesture and interface overview
 Once you are logged in you will see the following INDEX screen
 <br/>
-<img src="assets/8_appGesturePageIncomplete.png
-" alt="drawing" width="30%" />
+<img src="assets/8_appGesturePageIncomplete.png" alt="drawing" width="30%" />
 <br/>
 <br/>
 This screen shows the 6 gestures to complete. Choose them in any order and complete them at your leisure. There is no need to finish them all at once as when you reopen the app, you will remain logged in (for your device) and the gestures you have completed will be indicated. 
