@@ -104,8 +104,7 @@ This screen shows the 6 gestures to complete. Choose them in any order and compl
 
 Choose one of the gestures, the image below is of gesture 1: 
 <br/>
-<img src="assets/9_gesturePage.png
-" alt="drawing" width="30%" />
+<img src="assets/9_gesturePage.png" alt="drawing" width="30%" />
 <br/>
 <br/>
 There are 8 buttons and 1 slider in total: 
@@ -135,16 +134,14 @@ MAIN BUTTONS
 `send to database`: After the audio has completed and the data has been turned off after pressing `play audio + record control data`, press this button to send the data to the database. This may take a few seconds. You will see the following screen with an alert if the data has been successfully send to the database. 
 
 <br/>
-<img src="assets/10_sentToDb.png
-" alt="drawing" width="30%" />
+<img src="assets/10_sentToDb.png" alt="drawing" width="30%" />
 <br/>
 <br/>
 
 When this alert comes up you know the data has been sent to the database, you can press OK and then press the home button in the top left corner which will return you to the INDEX screen that will show the completed gestures. In the following images, gesture 1 and 6 have been completed. 
 
 <br/>
-<img src="assets/11_appGestureComplete.png
-" alt="drawing" width="30%" />
+<img src="assets/11_appGestureComplete.png" alt="drawing" width="30%" />
 <br/>
 <br/>
 
@@ -162,7 +159,6 @@ Known issues include:
 2. After pressing the `send to database` button the alert does not show up that it was successful. Allow 30 seconds for this to show up, though I have found that it usually occurs in 3-5 seconds. If it does not show up after roughly 30 seconds, try closing the application and try recording again and sending to the database. If this happens again, make note of which gesture this occured for and move on. 
 3. Shaking the app will bring up a menu, shown in the image below. If this occurs while you are capturing your gesture simply ignore the screen untill the audio has stopped and the data is turned off. It will not effect capturing the data. Simply press the `x` in the top right corner of the menu to close.  
  <br/>
-<img src="assets/12_shake.png
-" alt="drawing" width="30%" />
+<img src="assets/12_shake.png" alt="drawing" width="30%" />
 <br/>
 <br/>
